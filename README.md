@@ -9,8 +9,6 @@ Ce site web statique est construit avec Jekyll et utilise des fichiers Markdown 
 ## Structure du site
 
 - `index.md` - Page d'accueil
-- `programme.md` - Programme détaillé de la visite
-- `infos-pratiques.md` - Informations pratiques (lieu, transport, etc.)
 - `_layouts/default.html` - Layout HTML principal
 - `_config.yml` - Configuration Jekyll
 
