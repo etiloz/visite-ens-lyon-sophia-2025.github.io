@@ -12,10 +12,10 @@ Pour les autres, constituer 2 sous-groupes 2A et 2B.
 ## 9h45 - 10h45: LEAT + Groupe CO2
 
 
-| Heure     | Groupe 2A      | |Groupe 2B     
-|-----------|----------------|-|---------------------------------------------
-|9h45-10h15 | LEAT <br> TBA  | | **salle F 221** <br> G. Urvoy-Keller (groupe CO2)<br> TBA
-|10h15-10h45| **salle F 221**  <br> G. Urvoy-Keller (groupe CO2) <br> TBA | |LEAT <br> TBA
+| Heure     | &nbsp;&nbsp;&nbsp;|Groupe 2A      |&nbsp;&nbsp;&nbsp;|Groupe 2B     
+|-----------|-|---------------|-|---------------------------------------------
+|9h45-10h15 | |LEAT <br> TBA  | | **salle F 221** <br> G. Urvoy-Keller (groupe CO2)<br> TBA
+|10h15-10h45| |**salle F 221**  <br> G. Urvoy-Keller (groupe CO2) <br> TBA | |LEAT <br> TBA
 
 
 ## 10h45 - 11h45: Équipe SPARKS
