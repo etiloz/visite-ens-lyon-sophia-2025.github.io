@@ -26,7 +26,5 @@ Mercredi 5 novembre 2025
 | 9h30-11h30 | Groupe 1: Terra Numerica                 | visite [Terra Numerica](https://terra-numerica.org)                           |
 | 9h45-11h45 | Groupe 2: campus Templiers               | [visite LEAT et SPARKS](templiers/index.md) 
 | 12h15-13h15| campus Templiers, salle cafet rdc bat E  | repas                                           |
-| 13h30-15h30| I3S algorithmes, salle 007               | [exposés pléniers](algorithmes/pleniers.md)                                |
-| 15h30-16h  | I3S algorithmes, salle repas             | pause café, déambulation                        |
-| 16h-17h    | I3S algorithmes, équipes                 | ateliers/rencontres doctorants  (2 slots d'1/2h)|
+| 13h30-17h| I3S algorithmes                          | [visite de l'I3S site algorithmes](algorithmes/index.md)                                |
 | 17h15      | devant INRIA / algorithmes               | départ du bus                                   |
