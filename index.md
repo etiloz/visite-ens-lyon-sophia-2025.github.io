@@ -12,10 +12,10 @@ Mardi 4 novembre 2025
 |------------|-------------------------------------------|-------------------------------------------------|
 | 12h-14h    | cafétéria INRIA                           | repas      |
 | 13h55-16h    | INRIA, amphi Kahn                       | [exposés pléiniers](inria/VisiteL3ENS4Nov2025.pdf)                              |
-| 16h-16h15  | INRIA, hall Kahn                       | pause café                                      |
-| 16h30-18h|  INRIA                              | [visites dans les équipes en petits groupes](inria/VisiteL3ENS4Nov2025.pdf)
+| 16h-16h15  | INRIA, hall Kahn                          | pause café                                      |
+| 16h30-18h|  INRIA                                      | [visites dans les équipes en petits groupes](inria/VisiteL3ENS4Nov2025.pdf)
 | 18h15-19h  | B&B                                       | Installation hotel                              |
-| 19h-22h30  | Antibes centre   (A/R bus inclus)                         | repas au [restaurant le 32](https://32pizzabar.shop), puis visite libre de la ville       |
+| 19h-22h30  | Antibes centre   (A/R bus inclus)         | repas au [restaurant le 32](https://32pizzabar.shop), puis visite libre de la ville       
 
 Mercredi 5 novembre 2025
 ------------------------
