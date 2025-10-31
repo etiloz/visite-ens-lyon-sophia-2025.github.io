@@ -3,11 +3,11 @@ layout: default
 title: Programme du mercredi 5 novembre matin, site des Templiers (laboratoire LEAT et équipe I3S SPARKS)
 ---
 
+[retour à la racine](../index.md)
 
-# Programme général de la visite aux Templiers mercredi 5 novembre (Groupe 2)
-
-<span style="color:red">Pour l'examen de mathématique: salle E 109.</span>
-Pour les autres, constituer 2 sous-groupes 2A et 2B.
+- <span style="color:red">Pour l'examen de mathématique: salle E 109.</span>
+- Pour le groupe 1, ça se passe à Terra Numerica
+- Pour le groupe 2, constituer 2 sous-groupes 2A et 2B pour la première partie de la matinée.
 
 ## 9h45 - 10h45: LEAT + Groupe CO2
 
