@@ -3,21 +3,30 @@ layout: default
 title: Accueil
 ---
 
-# Visite ENS Lyon - Sophia Antipolis 2025
+# Visite ENS Lyon 4-5 novembre - Programme général de la visite
 
-Bienvenue sur le site de la visite de l'ENS Lyon aux laboratoires I3S, INRIA et LEAT à Sophia Antipolis.
+Mardi 4 novembre 2025
+---------------------
 
-## Dates
+| Heure      | Lieu                                      | Quoi                                            |
+|------------|-------------------------------------------|-------------------------------------------------|
+| 12h-14h    | cafétéria INRIA                           | repas      |
+| 13h55-16h    | INRIA, amphi Kahn                       | [exposés pléiniers](inria/VisiteL3ENS4Nov2025.pdf)                              |
+| 16h-16h15  | INRIA, hall Kahn                       | pause café                                      |
+| 16h30-18h|  INRIA                              | [visites dans les équipes en petits groupes](inria/VisiteL3ENS4Nov2025.pdf)
+| 18h15-19h  | B&B                                       | Installation hotel                              |
+| 19h-22h30  | Antibes centre   (A/R bus inclus)                         | repas au [restaurant le 32](https://32pizzabar.shop), puis visite libre de la ville       |
 
-4-5 novembre 2025
+Mercredi 5 novembre 2025
+------------------------
 
-## Laboratoires visités
-
-- **I3S** - Laboratoire d'Informatique, Signaux et Systèmes de Sophia Antipolis
-- **INRIA** - Institut National de Recherche en Informatique et en Automatique
-- **LEAT** - Laboratoire d'Électronique, Antennes et Télécommunications
-
-## Navigation
-
-- [Programme](programme.md)
-- [Informations pratiques](infos-pratiques.md)
+| Heure      | Lieu                                     | Quoi                                            |
+|------------|------------------------------------------|-------------------------------------------------|
+| 9h15       | parking B&B                              | montée dans le Bus                              |
+| 9h30-11h30 | Groupe 1: Terra Numerica                 | visite [Terra Numerica](https://terra-numerica.org)                           |
+| 9h45-11h45 | Groupe 2: campus Templiers               | [visite LEAT et SPARKS](templiers/index.md) 
+| 12h15-13h15| campus Templiers, salle cafet rdc bat E  | repas                                           |
+| 13h30-15h30| I3S algorithmes, salle 007               | [exposés pléniers](algorithmes/pleniers.md)                                |
+| 15h30-16h  | I3S algorithmes, salle repas             | pause café, déambulation                        |
+| 16h-17h    | I3S algorithmes, équipes                 | ateliers/rencontres doctorants  (2 slots d'1/2h)|
+| 17h15      | devant INRIA / algorithmes               | départ du bus                                   |

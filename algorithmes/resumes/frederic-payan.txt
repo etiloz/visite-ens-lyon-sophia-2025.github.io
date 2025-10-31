@@ -1,0 +1,9 @@
+"L’équipe Mediacoding mène des recherches innovantes sur le stockage de données numériques dans l’ADN synthétique, explorant son potentiel comme solution durable et ultra-compacte pour l’archivage à long terme. Nos travaux visent à développer des protocoles de codage et de décodage fiables, adaptés aux contraintes biochimiques et aux besoins croissants en capacité de stockage. Nous développons aussi des outils pour l'analyse de la géométrie 3D des molécules permettant d'identifier des similarités structurales et mieux comprendre les mécanismes de séquençage par nanopores. Mediacoding est un acteur majeur dans le PEPR MolecularXiv, (financé par France 2030) qui s'intéresse au stockage moléculaire de données.
+
+mots clefs : codage/décodage de données numériques, traitement du signal et des images, traitement de la géométrie 3D, théorie de l'information, informatique graphique
+
+-------------------------------
+Mediacoding conducts innovative research on digital data storage in synthetic DNA, exploring its potential as a sustainable and ultra-compact solution for long-term archiving. Our work aims to develop reliable encoding and decoding protocols adapted to biochemical constraints and growing storage capacity needs. We are also developing tools for analysing the 3D geometry of molecules to identify structural similarities and better understand nanopore sequencing mechanisms.
+Mediacoding is a major actor in the PEPR MolecularXiv (funded by France 2030), which focuses on molecular data storage.
+
+Keywords: digital data encoding/decoding, signal and image processing, 3D geometry processing, information theory, computer graphics"
