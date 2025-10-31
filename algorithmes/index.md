@@ -17,7 +17,8 @@ title: Programme du mercredi 5 novembre après-midi, i3S site des Algorithmes
 
 ## 15h-15h15 pause
 
-## 15h15-16h15 salles 007, 001 (rdc) et 308 (niv 3, alvéoles SCALE/SIGNET)
+## 15h15-16h15 exposés en petits groupes
+salles 007, 001 (rdc) et 308 (niv 3, alvéoles SCALE/SIGNET)
 
 |Heure|salle 007 | salle 001 <br> (15 max) | salle 308 <br> (8 max) 
 |-----|----------|-----------|----------
