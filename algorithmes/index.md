@@ -26,7 +26,9 @@ title: Programme du mercredi 5 novembre après-midi, i3S site des Algorithmes
 
 
 
-## 16h15-16h45: salle 007 et cafétéria. PRESENTATIONS INFORMELLES, ECHANGES OUVERTS, EXPOSES DE DERNIERE MINUTE
+## 16h15-16h45: salle 007 et cafétéria. 
+
+PRESENTATIONS INFORMELLES, ECHANGES OUVERTS, EXPOSES DE DERNIERE MINUTE
 
 participants: orateurs de l'après-midi, autres...
 
