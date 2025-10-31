@@ -19,7 +19,7 @@ title: Programme du mercredi 5 novembre après-midi, i3S site des Algorithmes
 
 ## 15h15-16h15 salles 007, 001 (rdc) et 308 (niv 3, alvéoles SCALE/SIGNET)
 
-|Heure|salle 007 | salle 001 | salle 308 
+|Heure|salle 007 | salle 001 (15 max) | salle 308 (8 max) 
 |-----|----------|-----------|----------
 |15h15-15h45|Ramon Aparicio (SIGNET) [Compressible AI Tasks in Green Data Centers as Grid-Forming Support Assets](resumes/ramon-aparicio.txt) |Luigi Liquori (Kairos) [Redactable smart contracts in electronic ledgers (blockchain)](resumes/luigi-liquori.txt)|Étienne Lozes (SCALE) [Do LLMs really scale?](resumes/etienne-lozes.txt)
 |15h45-16h15|Ramon Aparicio (SIGNET) [Adaptive Control of Connectionless Quantum Networks](resumes/ramon-aparicio2.txt)|Anéva Doliciane Tsafack (Morphème) [Imagerie de microscopie pour la biologie](resumes/aneva-doliciane-tsafack.txt)| 
