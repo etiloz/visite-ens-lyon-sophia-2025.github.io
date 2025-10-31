@@ -3,8 +3,6 @@ layout: default
 title: Accueil
 ---
 
-## Visite ENS Lyon 4-5 novembre - Programme général de la visite
-
 Mardi 4 novembre 2025
 ---------------------
 
