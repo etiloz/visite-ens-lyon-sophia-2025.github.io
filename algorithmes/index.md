@@ -1,6 +1,11 @@
-# Exposés pléniers aux algorithmes mercredi 5 novembre
+---
+layout: default
+title: Programme du mercredi 5 novembre après-midi, i3S site des Algorithmes
+---
 
-# Laboratoire I3S, Bat Euclide B, les Algorithmes
+[retour à la racine](../index.md)
+
+## Lieu: Laboratoire I3S, Bat Euclide B, les Algorithmes
 
 ## 13h30-15h salle 007: exposés pléniers
 
