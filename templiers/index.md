@@ -12,7 +12,7 @@ Pour les autres, constituer 2 sous-groupes 2A et 2B.
 ## 9h45 - 10h4: LEAT + Groupe CO2
 
 
-| <div style="width:20%">Heure<div>     | <div style="width:40%">Groupe 2A</div>      | <div style="width:40%">Groupe 2B</div>     
+| <div style="width:20%">Heure</div>     | <div style="width:40%">Groupe 2A</div>      | <div style="width:40%">Groupe 2B</div>     
 |-----------|----------------|----------------------------------------------
 |9h45-10h15 | LEAT <br> TBA      | **salle F 221** <br> G. Urvoy-Keller (groupe CO2)<br> TBA
 |10h15-10h45| **salle F 221**  <br> G. Urvoy-Keller (groupe CO2) <br> TBA | LEAT <br> TBA
