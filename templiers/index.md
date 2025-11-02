@@ -14,8 +14,8 @@ title: Programme du mercredi 5 novembre matin, site des Templiers (laboratoire L
 
 | Heure     | &nbsp;&nbsp;&nbsp;|Groupe 2A      |&nbsp;&nbsp;&nbsp;|Groupe 2B     
 |-----------|-|---------------|-|---------------------------------------------
-|9h45-10h15 | |LEAT <br> TBA  | | **salle F 221** <br> G. Urvoy-Keller (groupe CO2)<br> TBA
-|10h15-10h45| |**salle F 221**  <br> G. Urvoy-Keller (groupe CO2) <br> TBA | |LEAT <br> TBA
+|9h45-10h15 | |LEAT <br> TBA  | | **salle F 221** <br> G. Urvoy-Keller (groupe CO2)<br> [Objectifs environnementaux et numérique](co2/index.md)
+|10h15-10h45| |**salle F 221**  <br> G. Urvoy-Keller (groupe CO2) <br> [Objectifs environnementaux et numérique](co2/index.md) | |LEAT <br> TBA
 
 
 ## 10h45 - 11h45: Équipe SPARKS
