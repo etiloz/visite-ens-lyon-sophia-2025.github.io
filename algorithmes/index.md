@@ -22,7 +22,7 @@ salles 007, 001 (rdc) et 308 (niv 3, alvéoles SCALE/SIGNET)
 
 |Heure|salle 007 | salle 001 <br> (15 max) | salle 308 <br> (8 max) 
 |-----|----------|-----------|----------
-|15h15-15h45|Ramon Aparicio (SIGNET) <br> [Compressible AI Tasks in Green Data Centers as Grid-Forming Support Assets](resumes/ramon-aparicio.txt) |Luigi Liquori (Kairos) <br> [Redactable smart contracts in electronic ledgers (blockchain)](resumes/luigi-liquori.txt)|Étienne Lozes (SCALE) <br> [Do LLMs really scale?](resumes/etienne-lozes.txt)
+|15h15-15h45|Ramon Aparicio (SIGNET) <br> [Can flexible AI workloads to stabilise electrical grids ? / Quantum Network AI-based Control ](resumes/ramon-aparicio2.txt) |Luigi Liquori (Kairos) <br> [Redactable smart contracts in electronic ledgers (blockchain)](resumes/luigi-liquori.txt)|Étienne Lozes (SCALE) <br> [Do LLMs really scale?](resumes/etienne-lozes.txt)
 |15h45-16h15|Christophe Crespelle (MC3) <br> Open problems in complex networks analysis and modelling|Anéva Doliciane Tsafack (Morphème) <br> [Imagerie de microscopie pour la biologie](resumes/aneva-doliciane-tsafack.txt)| 
 
 
