@@ -10,7 +10,7 @@ title: Programme du mercredi 5 novembre matin, site des Templiers (laboratoire L
 - Pour le groupe 2, constituer 2 sous-groupes 2A et 2B pour la première partie de la matinée.
 
 ## 9h45 - 10h45: LEAT + Groupe CO2
-
+Lieu: Templiers, Bâtiment F.
 
 | Heure     | &nbsp;&nbsp;&nbsp;|Groupe 2A      |&nbsp;&nbsp;&nbsp;|Groupe 2B     
 |-----------|-|---------------|-|---------------------------------------------
@@ -19,8 +19,26 @@ title: Programme du mercredi 5 novembre matin, site des Templiers (laboratoire L
 
 
 ## 10h45 - 11h45: Équipe SPARKS
-
+Lieu: Templiers, Bâtiment E, 3ème étage
 Coordination: M. Winckler
 
-TBA
+### Analyse de l'Expérience Incarnée dans les interactions en Réalité Virtuelle 
+Florent Robert
 
+### DISPUTool 3.0: Fallacy Detection and Repairing in Argumentative Political Debates
+Deborah Dore
+
+### Optimisation multimodale avec un nombre infini de solutions. / Optimisation basée sur les marches aléatoires de Lévy. 
+Denis Pallez
+
+### Knowledge Graph Embeddings
+Guillaume Meroue
+
+### Pronostique de la progression de la maladie de Charcot par des techniques d’apprentissage
+Johan Montagnat
+
+### PEACE: Providing Explanations and Analysis for Combating Hate Expressions
+Greta Damo
+
+### Raisonnement par analogie et ses applications sur les graphes de connaissances
+Pierre Monnin
