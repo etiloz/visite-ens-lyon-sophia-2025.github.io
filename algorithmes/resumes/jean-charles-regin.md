@@ -1,1 +1,12 @@
+---
+layout: default
+title: Exposé
+---
+
+[retour au programme des Algorithmes](../index.md)
+
+
+## Contraintes, IA & Applications
+### Jean-Charles Régin (C&A)
+
 Cette présentation introduira certaines thématiques de l'équipe Contraintes et Applications. Nous présenterons les travaux effectués par les thésards ces dernières années, à sa voir la résolution de problèmes tels que le TSP, l'utilisation de diagramme de décision multi-valués, la recherche d 'itinéraires multitcritères, l'amélioration de calculs de flots à côut min, le model checking   et l'IA Neuro-symbolique 

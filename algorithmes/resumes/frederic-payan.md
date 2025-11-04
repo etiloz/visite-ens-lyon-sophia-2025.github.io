@@ -1,3 +1,13 @@
+---
+layout: default
+title: Exposé
+---
+
+[retour au programme des Algorithmes](../index.md)
+
+## Stockage de données sur ADN synthétique / Analyse de la géométrie 3D des molécules
+### Marc Antonini, Frédéric Payan (Mediacoding)
+
 "L’équipe Mediacoding mène des recherches innovantes sur le stockage de données numériques dans l’ADN synthétique, explorant son potentiel comme solution durable et ultra-compacte pour l’archivage à long terme. Nos travaux visent à développer des protocoles de codage et de décodage fiables, adaptés aux contraintes biochimiques et aux besoins croissants en capacité de stockage. Nous développons aussi des outils pour l'analyse de la géométrie 3D des molécules permettant d'identifier des similarités structurales et mieux comprendre les mécanismes de séquençage par nanopores. Mediacoding est un acteur majeur dans le PEPR MolecularXiv, (financé par France 2030) qui s'intéresse au stockage moléculaire de données.
 
 mots clefs : codage/décodage de données numériques, traitement du signal et des images, traitement de la géométrie 3D, théorie de l'information, informatique graphique
