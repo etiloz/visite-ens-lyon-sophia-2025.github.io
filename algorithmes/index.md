@@ -11,7 +11,7 @@ title: Programme du mercredi 5 novembre après-midi, i3S site des Algorithmes
 
 |Heure|Orateur       |Équipe    |Titre
 |-----|--------------|----------|-----
-|13h30|Adrien Richard|MC3 (MDSC)| [Réseaux d’automates : une approche théorique des systèmes complexes](resumes/adrien-richard.txt)
+|13h30|Adrien Richard|MC3 (MDSC)| [Réseaux d’automates : une approche théorique des systèmes complexes](resumes/adrien-richard.md)
 |14h  | Jean-Charles Régin| C&A (MDSC)| [Contraintes, IA & Applications](resumes/jean-charles-regin.txt)
 |14h30| Frédéric PAYAN | Mediacoding (SIS) | [Stockage de données sur ADN synthétique / Analyse de la géométrie 3D des molécules](resumes/frederic-payan.txt)
 

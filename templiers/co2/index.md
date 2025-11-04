@@ -3,6 +3,8 @@ layout: default
 title: Sur la complexité de la relation entre objectifs environnementaux et numérique
 ---
 
+## Sur la complexité de la relation entre objectifs environnementaux et numérique
+
 ### [Guillaume Urvoy-Keller UniCA/I3S](https://webusers.i3s.unice.fr/~urvoy)
 
 Dans une première partie de l'exposé, nous illustrerons la relation complexe entre numérique et politique environnementale en prenant l'exemple des transitions jumelles avec le  cas de l'électrification du parc automobile français. Cela permettra de mettre à jour les tensions à venir sur les ressources abiotiques entre différents secteurs économiques et le numériques.
