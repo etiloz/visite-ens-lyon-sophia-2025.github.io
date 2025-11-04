@@ -21,7 +21,7 @@ Mercredi 5 novembre 2025
 | Heure      | Lieu                                     | Quoi                                            |
 |------------|------------------------------------------|-------------------------------------------------|
 | 9h15       | parking B&B                              | montée dans le Bus                              |
-| 9h30-11h30 | Groupe 1: Terra Numerica                 | visite [Terra Numerica](https://terra-numerica.org)                           |
+| 9h30-11h30 | Groupe 1: Terra Numerica                 | visite [Terra Numerica](terra-numerica/index.md)                           |
 | 9h45-11h45 | Groupe 2: campus Templiers               | [visite LEAT et SPARKS](templiers/index.md) 
 | 12h-13h| campus Templiers, salle cafet rdc bat E  | repas
 |13h-13h15 | | marche jusqu'au site des algorithmes                                           |
