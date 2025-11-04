@@ -1,3 +1,10 @@
+---
+layout: default
+title: Terra Numerica
+---
+
+## Programme de la visite à Terra Numerica
+
 ### Réseaux verts 
 Découvrez le fonctionnement d’un réseau de ville durable grâce à une maquette 3D interactive.
 Explorez les principes d’optimisation des réseaux de télécommunication et de distribution d’énergie en identifiant des solutions innovantes pour améliorer l’efficacité énergétique d’un aménagement urbain.
