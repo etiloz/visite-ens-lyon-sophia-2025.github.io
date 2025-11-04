@@ -23,3 +23,6 @@ Greta Damo
 
 ### Raisonnement par analogie et ses applications sur les graphes de connaissances
 Pierre Monnin
+
+### Vers une analyse automatique de la validité d’arguments basée sur une logique formelle 
+Cyprien Michel-Deletie
