@@ -2,7 +2,7 @@
 layout: default
 title: Exposés de R. Aparicio-Pardo
 ---
-
+### Ramon Aparicio-Pardo (SIGNET)
 
 ## Can flexible AI workloads to stabilise electrical grids ? 
 
