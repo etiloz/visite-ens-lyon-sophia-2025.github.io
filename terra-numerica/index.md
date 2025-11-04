@@ -3,6 +3,8 @@ layout: default
 title: Terra Numerica
 ---
 
+[retour à la racine](../index.md)
+
 ## Programme de la visite à Terra Numerica
 
 ### Réseaux verts 
