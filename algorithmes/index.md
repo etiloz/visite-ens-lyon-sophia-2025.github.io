@@ -22,7 +22,7 @@ salles 007, 001 (rdc) et 308 (niv 3, alvéoles SCALE/SIGNET)
 
 |Heure|salle 007 | salle 001 <br> (15 max) | salle 308 <br> (8 max) 
 |-----|----------|-----------|----------
-|15h15-15h45|Christophe Crespelle (MC3) <br> Open problems in complex networks analysis and modelling|Luigi Liquori KAIROS (COMRED) <br> [Redactable smart contracts in electronic ledgers (blockchain)](resumes/luigi-liquori.md)|Étienne Lozes (SCALE) <br> [Do LLMs really scale?](resumes/etienne-lozes.md)
+|15h15-15h45|Christophe Crespelle (MC3) <br> [Open problems in complex networks analysis and modelling](resumes/slides-christophe-crespelle.pdf)|Luigi Liquori KAIROS (COMRED) <br> [Redactable smart contracts in electronic ledgers (blockchain)](resumes/luigi-liquori.md)|Étienne Lozes (SCALE) <br> [Do LLMs really scale?](resumes/etienne-lozes.md)
 |15h45-16h15|Ramon Aparicio SIGNET (COMRED)) <br> [Can flexible AI workloads to stabilise electrical grids ? / Quantum Network AI-based Control ](resumes/ramon-aparicio.md) |Anéva Doliciane Tsafack MORPHÈME (SIS) <br> [Imagerie de microscopie pour la biologie](resumes/aneva-doliciane-tsafack.md)| 
 
 
