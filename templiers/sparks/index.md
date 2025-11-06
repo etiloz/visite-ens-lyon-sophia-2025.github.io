@@ -3,6 +3,8 @@
 - Coordination: Marco Winckler
 - Organisation sous forme de session posters
 
+[Transparents de la présentation introductive](presentation-sparks.pdf)
+
 ### Analyse de l'Expérience Incarnée dans les interactions en Réalité Virtuelle 
 Florent Robert
 
