@@ -3,6 +3,22 @@ layout: default
 title: Accueil
 ---
 
+# 🆕 🔥 Sujets de stage
+- [Réaliser un projet de compilation en utilisant une IA générative](stages/1_Réaliser_un_projet_de_compilation_en_utilisant_une_IA_générative.md)
+- [Sparsification of Neural networks with structured sparse ℓ1,∞ projection for improving energy consumption  and interpretability](stages/2_Sparsification_of_Neural_networks_with_structured_sparse_ℓ1,∞_projection_for_improving_energy_consumption__and_interpretability.md)
+- [Pronostic de l'évolution de la SLA (maladie de Charcot)](stages/3_Pronostic_SLA.md)
+- [Réseaux booléens degré-bornés ](stages/4_Réseaux_booléens_degré-bornés_.md)
+- [Graphe d'interaction, propriétés dynamiques, et complexité des réseaux booléens](stages/5_Graphe_d'interaction,_propriétés_dynamiques,_et_complexité_des_réseaux_booléens.md)
+- [Synchroniser les réseaux booléens asynchrones](stages/6_Synchroniser_les_réseaux_booléens_asynchrones.md)
+- [Evolutionary Computation and Multimodality](stages/7_Evolutionary_Computation_and_Multimodality.md)
+- [Evolutionary Computation and Neuroevolution](stages/8_Evolutionary_Computation_and_Neuroevolution.md)
+- [Evolutionary Computation and Convergence](stages/9_Evolutionary_Computation_and_Convergence.md)
+- [PUSHTHEBUTTON: Using types, grammars, and logics to facilitate conflict resolution in standards definitions and reaching consensus in political debate](stages/10_PUSHTHEBUTTON.md)
+- [Chain of Trust in Electronic Ledger and Smart Contracts](stages/11_Chain_of_Trust_in_Electronic_Ledger_and_Smart_Contracts.md)
+- [Fault-tolerant session types](stages/12_Faulty_ST.md)
+
+
+
 Mardi 4 novembre 2025
 ---------------------
 
@@ -29,16 +45,3 @@ Mercredi 5 novembre 2025
 | 17h15      | devant INRIA / algorithmes               | départ du bus                                   |
 
 
-## Sujets de stage
-- [Réaliser un projet de compilation en utilisant une IA générative](stages/1_Réaliser_un_projet_de_compilation_en_utilisant_une_IA_générative.md)
-- [Sparsification of Neural networks with structured sparse ℓ1,∞ projection for improving energy consumption  and interpretability](stages/2_Sparsification_of_Neural_networks_with_structured_sparse_ℓ1,∞_projection_for_improving_energy_consumption__and_interpretability.md)
-- [Pronostic de l'évolution de la SLA (maladie de Charcot)](stages/3_Pronostic_SLA.md)
-- [Réseaux booléens degré-bornés ](stages/4_Réseaux_booléens_degré-bornés_.md)
-- [Graphe d'interaction, propriétés dynamiques, et complexité des réseaux booléens](stages/5_Graphe_d'interaction,_propriétés_dynamiques,_et_complexité_des_réseaux_booléens.md)
-- [Synchroniser les réseaux booléens asynchrones](stages/6_Synchroniser_les_réseaux_booléens_asynchrones.md)
-- [Evolutionary Computation and Multimodality](stages/7_Evolutionary_Computation_and_Multimodality.md)
-- [Evolutionary Computation and Neuroevolution](stages/8_Evolutionary_Computation_and_Neuroevolution.md)
-- [Evolutionary Computation and Convergence](stages/9_Evolutionary_Computation_and_Convergence.md)
-- [PUSHTHEBUTTON: Using types, grammars, and logics to facilitate conflict resolution in standards definitions and reaching consensus in political debate](stages/10_PUSHTHEBUTTON.md)
-- [Chain of Trust in Electronic Ledger and Smart Contracts](stages/11_Chain_of_Trust_in_Electronic_Ledger_and_Smart_Contracts.md)
-- [Fault-tolerant session types](stages/12_Faulty_ST.md)
