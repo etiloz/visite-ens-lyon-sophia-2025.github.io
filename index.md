@@ -39,5 +39,5 @@ Mercredi 5 novembre 2025
 - [Evolutionary Computation and Multimodality](stages/7_Evolutionary_Computation_and_Multimodality.md)
 - [Evolutionary Computation and Neuroevolution](stages/8_Evolutionary_Computation_and_Neuroevolution.md)
 - [Evolutionary Computation and Convergence](stages/9_Evolutionary_Computation_and_Convergence.md)
-- [PUSHTHEBUTTON: Using types, grammars, and logics to facilitate conflict resolution in standards definitions and reaching consensus in political debate](stages/10_PUSHTHEBUTTON:_Using_types,_grammars,_and_logics_to_facilitate_conflict_resolution_in_standards_definitions_and_reaching_consensus_in_political_debate.md)
+- [PUSHTHEBUTTON: Using types, grammars, and logics to facilitate conflict resolution in standards definitions and reaching consensus in political debate](stages/10_PUSHTHEBUTTON.md)
 - [Chain of Trust in Electronic Ledger and Smart Contracts](stages/11_Chain_of_Trust_in_Electronic_Ledger_and_Smart_Contracts.md)
