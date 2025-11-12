@@ -16,7 +16,9 @@ title: Accueil
 - [PUSHTHEBUTTON: Using types, grammars, and logics to facilitate conflict resolution in standards definitions and reaching consensus in political debate](stages/10_PUSHTHEBUTTON.md)
 - [Chain of Trust in Electronic Ledger and Smart Contracts](stages/11_Chain_of_Trust_in_Electronic_Ledger_and_Smart_Contracts.md)
 - [Fault-tolerant session types](stages/12_Faulty_ST.md)
-
+- [Extract Choreography Automata](stages/12_Extract_Choreography_Automata.md)
+- [Production d'un outil open source pour la compression de maillages volumiques 3D](stages/13_Production_d'un_outil_open_source_pour_la_compression_de_maillages_volumiques_3D.md)
+- [Amélioration d'un visualiseur 3D de molécules pour une interface web permettant la découverte de nouveaux médicaments](stages/14_Amélioration_d'un_visualiseur_3D_de_molécules_pour_une_interface_web_permettant_la_découverte_de_nouveaux_médicaments.md)
 
 
 Mardi 4 novembre 2025
