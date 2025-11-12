@@ -21,13 +21,13 @@ Dans un second temps, cette fonction sera interfacée avec un outil de compressi
 
 L'objectif du livrable final sera de produire un outil de démonstration open source qui sera rendu public.
 
-[1] Peyrot, JL., Duval, L., Payan, F. et al. HexaShrink, an exact scalable framework for hexahedral meshes with attributes and discontinuities: multiresolution rendering and storage of geoscience models. Comput Geosci. https://doi.org/10.1007/s10596-019-9816-2
+[1] Peyrot, JL., Duval, L., Payan, F. et al. HexaShrink, an exact scalable framework for hexahedral meshes with attributes and discontinuities: multiresolution rendering and storage of geoscience models. Comput Geosci. [https://doi.org/10.1007/s10596-019-9816-2](https://doi.org/10.1007/s10596-019-9816-2)
 
-[2] https://en.wikipedia.org/wiki/Companding
+[2] [https://en.wikipedia.org/wiki/Companding](https://en.wikipedia.org/wiki/Companding)
 
-[3] https://youtu.be/48F9-kSjczs
+[3] [https://youtu.be/48F9-kSjczs](https://youtu.be/48F9-kSjczs)
 
-[4] https://zenodo.org/records/14641959
+[4] [https://zenodo.org/records/14641959](https://zenodo.org/records/14641959)
 
-[5] https://github.com/echristophe/3d_spiht_rars
+[5] [https://github.com/echristophe/3d_spiht_rars](https://github.com/echristophe/3d_spiht_rars)
 
