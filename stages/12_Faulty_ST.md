@@ -27,4 +27,4 @@ Ce stage vise à explorer la notion de global type au-delà de la réalisabilit�
 
 [5] [Optimal Zielonka-type construction of deterministic asynchronous automata]() Blaise Genest, Hugo Gimbert, Anca Muscholl, and Igor Walukiewicz. ICALP'10.
 
-<img src="session-types.png"/>
+<img src="session-types.png" with="80%"/>
